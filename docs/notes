@@ -1,0 +1,6 @@
+str = "hello world";
+str.indexOf("hello");       // > 0
+str.indexOf("yes");         // > -1
+
+
+function expression vs declaration
